@@ -1,6 +1,6 @@
 # :dart: Boilerplate de Estudo
 
-> Boilerplate criado baseado no curso de [NextJS na prática](https://nextjs.willianjusten.com.br) e [React Avançado](https://reactavancado.com.br), com o intuíto de estudos e evolução no desenvolvimento de projetos.
+> Boilerplate criado baseado nos cursos de [NextJS na prática](https://nextjs.willianjusten.com.br) e [React Avançado](https://reactavancado.com.br), com o intuito de estudos e evolução no desenvolvimento de projetos.
 
 ## :rocket:  Executar o projeto
 
